@@ -78,7 +78,7 @@ To view the application on your local machine:
 
 Feel free to reach out to me for feedback, questions, or collaborations:  
 - **Email:** Piyush121004@gmail.com  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
+- **LinkedIn:** [Bhavya Piyush](https://www.linkedin.com/in/bhavya-piyush-b682161b9/)  
 
 ---  
 
